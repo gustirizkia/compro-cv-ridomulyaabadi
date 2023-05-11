@@ -12,36 +12,29 @@
   <!-- Favicons -->
   <link href="{{asset('images/logo.png')}}" rel="icon">
   <link href="{{asset('images/logo.png')}}" rel="apple-touch-icon">
-  <meta name="description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi
-    mitra strategis yang berusaha memberikan kepuasan
-    dan kenyamanan bagi Personal maupun Corporate
-    Customer">
   <meta name="keywords" content="Jasa Konturksi, jasa dekorasi interior dan eksterior CV. Rido Mulya Abadi">
   <meta name="title" content="CV. Rido Mulya Abadi Jasa Konturksi, jasa dekorasi interior dan eksterior CV. Rido Mulya Abadi">
 
   <meta name="title" content="CV. Rido Mulya Abadi">
-    <meta name="description" content="">
+
+    <!-- Primary Meta Tags -->
+    <title>CV. Rido Mulya Abadi</title>
+    <meta name="title" content="CV. Rido Mulya Abadi">
+    <meta name="description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi mitra strategis yang berusaha memberikan kepuasan dan kenyamanan bagi Personal maupun Corporate Customer">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://cv-ridomulyaabadi.nusacitateknologi.my.id/">
+    <meta property="og:url" content="{{url()}}">
     <meta property="og:title" content="CV. Rido Mulya Abadi">
-    <meta property="og:description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi
-    mitra strategis yang berusaha memberikan kepuasan
-    dan kenyamanan bagi Personal maupun Corporate
-    Customer">
-    <meta property="og:image" content="{{asset('images/logo.png')}}">
-    <meta property="image" content="{{asset('images/logo.png')}}">
+    <meta property="og:description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi mitra strategis yang berusaha memberikan kepuasan dan kenyamanan bagi Personal maupun Corporate Customer">
+    <meta property="og:image" content="{{assett('images/thumbnail.png')}}">
 
     <!-- Twitter -->
-    <meta property="twitter:card" content="CV. Rido Mulya Abadi">
-    <meta property="twitter:url" content="http://cv-ridomulyaabadi.nusacitateknologi.my.id/">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{url()}}">
     <meta property="twitter:title" content="CV. Rido Mulya Abadi">
-    <meta property="twitter:description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi
-    mitra strategis yang berusaha memberikan kepuasan
-    dan kenyamanan bagi Personal maupun Corporate
-    Customer">
-    <meta property="twitter:image" content="{{asset('images/logo.png')}}">
+    <meta property="twitter:description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi mitra strategis yang berusaha memberikan kepuasan dan kenyamanan bagi Personal maupun Corporate Customer">
+    <meta property="twitter:image" content="{{assett('images/thumbnail.png')}}">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
