@@ -14,8 +14,10 @@
   <link href="{{asset('images/logo.png')}}" rel="apple-touch-icon">
   <meta name="keywords" content="Jasa Konturksi, jasa dekorasi interior dan eksterior CV. Rido Mulya Abadi">
   <meta name="title" content="CV. Rido Mulya Abadi Jasa Konturksi, jasa dekorasi interior dan eksterior CV. Rido Mulya Abadi">
+    <meta itemprop="name" content="CV. Rido Mulya Abadi">
+    <meta itemprop="description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi mitra strategis yang berusaha memberikan kepuasan dan kenyamanan bagi Personal maupun Corporate Customer">
+    <meta itemprop="image" content="{{asset('images/thumbnail.png')}}">
 
-  <meta name="title" content="CV. Rido Mulya Abadi">
 
     <!-- Primary Meta Tags -->
     <title>CV. Rido Mulya Abadi</title>
