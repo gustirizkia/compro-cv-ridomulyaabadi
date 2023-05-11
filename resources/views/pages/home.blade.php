@@ -27,14 +27,14 @@
     <meta property="og:url" content="{{url('/')}}">
     <meta property="og:title" content="CV. Rido Mulya Abadi">
     <meta property="og:description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi mitra strategis yang berusaha memberikan kepuasan dan kenyamanan bagi Personal maupun Corporate Customer">
-    <meta property="og:image" content="{{assett('images/thumbnail.png')}}">
+    <meta property="og:image" content="{{asset('images/thumbnail.png')}}">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="{{url('/')}}">
     <meta property="twitter:title" content="CV. Rido Mulya Abadi">
     <meta property="twitter:description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi mitra strategis yang berusaha memberikan kepuasan dan kenyamanan bagi Personal maupun Corporate Customer">
-    <meta property="twitter:image" content="{{assett('images/thumbnail.png')}}">
+    <meta property="twitter:image" content="{{asset('images/thumbnail.png')}}">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
