@@ -24,14 +24,14 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="{{url()}}">
+    <meta property="og:url" content="{{url('/')}}">
     <meta property="og:title" content="CV. Rido Mulya Abadi">
     <meta property="og:description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi mitra strategis yang berusaha memberikan kepuasan dan kenyamanan bagi Personal maupun Corporate Customer">
     <meta property="og:image" content="{{assett('images/thumbnail.png')}}">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="{{url()}}">
+    <meta property="twitter:url" content="{{url('/')}}">
     <meta property="twitter:title" content="CV. Rido Mulya Abadi">
     <meta property="twitter:description" content="Rido Mulya Abadi senantiasa berkomitmen menjadi mitra strategis yang berusaha memberikan kepuasan dan kenyamanan bagi Personal maupun Corporate Customer">
     <meta property="twitter:image" content="{{assett('images/thumbnail.png')}}">
